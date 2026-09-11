@@ -16,4 +16,9 @@
 <a href="https://www.mongodb.com" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" /></a>&nbsp;&nbsp;
 <a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" /></a>
 
+<br />
+<br />
+
+<img src="./assets/terminal.svg" alt="Terminal: whoami → Alexis, a passionate developer from France. Currently working on web apps with Symfony and Tailwind CSS, learning something new every day." width="100%" />
+
 </div>
